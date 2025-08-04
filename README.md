@@ -1,4 +1,4 @@
-# Test in linux CentOS 7 
+# Test on linux CentOS 7 
 # esm_conda_yaml
 The conda env to install esmfold
 ```bash
